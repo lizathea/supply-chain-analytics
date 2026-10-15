@@ -1,5 +1,3 @@
-# supply-chain-analytics
-Supply Chain Operations and Inventory Analytics using Power BI
 # Supply Chain Operations & Inventory Analytics
 
 **Tools:** Microsoft Power BI, Power Query, DAX  
